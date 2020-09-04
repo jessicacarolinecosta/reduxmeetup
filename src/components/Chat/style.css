@@ -1,0 +1,22 @@
+.chat {
+    display: flex;
+    flex-direction: column;
+    flex: 10;
+    border: 1px solid #ccc;
+}
+
+.chatTitle {
+    padding: 10px 20px;
+    text-align: left;
+    font-size: 24px;
+}
+
+.chatUserName {
+    color: #CE1425;
+}
+
+.chatPlaceholder {
+    color: #515151;
+    font-size: 24px;
+    padding-top: 50px;
+}
